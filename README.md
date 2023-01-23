@@ -4,13 +4,13 @@
 This project was developed and aproved on AWS BlackBelt Data Analytics track.
 
 ## Architecture
-
+![alt text](img/architecture.png)
 
 ## Deploy the project
 
 *If you never worked with cdk, folow the steps on CDK guide on the final item of the README*
 
-Afthe it, run:
+After it, run:
 ```
 $ cdk deploy observability-sample-dev
 ```
