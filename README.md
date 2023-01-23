@@ -4,7 +4,7 @@
 This project was developed and aproved on AWS BlackBelt Data Analytics track.
 
 ## Architecture
-![Architecture](img/architecture.png)
+![Architecture](img/architecture_draw.png)
 
 ## Deploy the project
 
